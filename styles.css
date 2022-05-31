@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: "Source Sans", Helvetica, Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  @font-face {
+    font-family: "Source Sans";
+    src: url(../src/fonts/Source_Sans_Pro/SourceSansPro-Light.ttf);
+    font-weight: 100;
+    font-size: 5px;
+  }
+  
+  @font-face {
+    font-family: "Bebas Neue";
+    src: url(../src/fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+    font-weight: 100;
+    font-size: 5px;
+  }
